@@ -1,5 +1,6 @@
 package com.project.viruspropogation.main;
 
+
 import java.util.List;
 
 import com.project.viruspropogation.main.entity.Person;
